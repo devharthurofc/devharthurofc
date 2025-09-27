@@ -1,9 +1,44 @@
-<h1 align="center">📚 Estudante de Desenvolvimento Full Stack Dev.tutu</h1>
-<h3 align="center">Sou um desenvolvedor em formação, apaixonado por aprender e criar soluções que impactam o mundo. Atualmente estou explorando o universo Full Stack, construindo projetos e aprimorando minhas habilidades em cada linha de código. Minha jornada é de constante evolução, e cada desafio é uma oportunidade de crescer e transformar ideias em realidade</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&duration=5000&pause=2000&lines=Olá,+eu+sou+Harthur+Dev;Front-end+em+evolução;Aprendendo+JavaScript+e+TypeScript" alt="Typing SVG" />
+  </a>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=devharthurofc&show_icons=true&count_private=true&bg_color=00000000&title_color=FF0000&text_color=CC0000&icon_color=FF0000&border_color=FF0000" width="49%">
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=devharthurofc&border=FF0000&fire=FF0000&ring=FF0000&dates=DC143C&currStreakNum=FF0000&background=00000000&excludeDaysLabel=DC143C&sideNums=DC143C&stroke=DC143C&currStreakLabel=DC143C&sideLabels=DC143C" width="49%">
+</div>
+
+<br>
+
+<div align="center">
+  
+### 🛠️ Linguagens e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"/>
+  <p><em>Foco atual: aprimorando JavaScript e TypeScript</em></p>
+</div>
+
+</div>
+
+<div align="center">
+
+### 🌐 Conecte-se comigo
+
+  <a href="https://www.linkedin.com/in/seu-usuario/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
