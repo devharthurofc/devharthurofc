@@ -15,10 +15,10 @@
 ### 🛠️ Ferramentas do Arsenal  
 
 **⚡ Em evolução**  
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" width="120"/>  
+<img />  
 
 **📚 Aprendendo agora**  
-<img src ="https://skillicons.dev/icons?i=all"/>  
+<img/>  
 
 <p><em>“Um passo de cada vez, mas sempre para frente 🚀”</em></p>
 </div>
