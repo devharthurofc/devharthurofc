@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" width="120"/>  
 
 **📚 Aprendendo agora**  
-<img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" width="200"/>  
+<img src ="https://skillicons.dev/icons?i=all"/>  
 
 <p><em>“Um passo de cada vez, mas sempre para frente 🚀”</em></p>
 </div>
